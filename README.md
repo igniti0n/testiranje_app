@@ -18,13 +18,13 @@ KORACI KAKO OSPOSOBITI RAD:
 
 2. Update System Variables tako da se doda bin folder od skinutog file unutar PATH varijable.
 
-3. otvorite terminal unutar IDE npr. VS Code i unutar upišite:
+3. otvorite terminal unutar IDE npr. VS Code, skinuti ekstenziej za Flutter i Dart unutar IDE u VS code te unutar Android Studia. Nakon toga u terminal (može biti terminal od IDE ili Command prompt) upišite:
 
     flutter doctor --android-licenses
 
 time prihvatite sve potrebne licence.
 
-4. Otvorite apliakciju unutar IDE, potrebno je pokrenuti naredbu
+4. Otvorite apliakciju unutar IDE u terminalu, potrebno je pokrenuti naredbu
 
     flutter pub get
 
